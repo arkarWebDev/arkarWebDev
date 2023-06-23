@@ -16,11 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arkar58438261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arkar58438261" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arkar-kyaw-634776214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkar-kyaw-634776214" height="30" width="40" /></a>
-<a href="https://fb.com/arkarwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkarwebdev" height="30" width="40" /></a>
+<a href="https://facebook.com/arkarwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkarwebdev" height="30" width="40" /></a>
 <a href="https://instagram.com/arkarwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkarwebdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code hub 2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code hub 2.0" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCGF6qMTaldt2ev4Q-ahu1Jw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code hub 2.0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
