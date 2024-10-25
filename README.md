@@ -1,4 +1,3 @@
-<h1>Hi 👋</h1>
 <p>Hey! I'm Arkar, a 21-year-old MERN Stack & React Native developer with 3+ years of experience crafting cool web and mobile apps. Currently rocking it at IndoWebAgency, building fast, sleek, and scalable solutions. When I’m not coding, you’ll find me on YouTube, dropping fun and easy-to-follow dev tutorials. Let’s build something awesome! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkarwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="arkarwebdev" /> </p>
